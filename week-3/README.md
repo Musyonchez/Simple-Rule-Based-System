@@ -48,5 +48,8 @@ week-3/
 |------|------------|
 | Musyoka Philip | 672714 |
 
+## Sample Output
+![Sample Output](screenshots/output.png)
+
 ## Semantic Network
 ![Semantic Network](semantic_network.png)

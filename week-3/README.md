@@ -43,5 +43,10 @@ week-3/
 └── README.md
 ```
 
+## Group Members
+| Name | Student ID |
+|------|------------|
+| Musyoka Philip | 672714 |
+
 ## Semantic Network
 ![Semantic Network](semantic_network.png)

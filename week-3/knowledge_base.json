@@ -1,0 +1,25 @@
+{
+  "symptoms": [
+    "fever", "headache", "cough", "chest pain", "sneezing",
+    "runny nose", "fatigue", "sore throat", "vomiting", "diarrhea"
+  ],
+  "diseases": ["malaria", "pneumonia", "flu", "food poisoning"],
+  "rules": [
+    {
+      "conditions": ["fever", "headache", "fatigue"],
+      "diagnosis": "Malaria"
+    },
+    {
+      "conditions": ["cough", "chest pain", "fatigue"],
+      "diagnosis": "Pneumonia"
+    },
+    {
+      "conditions": ["sneezing", "runny nose", "sore throat"],
+      "diagnosis": "Flu"
+    },
+    {
+      "conditions": ["vomiting", "diarrhea", "fatigue"],
+      "diagnosis": "Food Poisoning"
+    }
+  ]
+}
